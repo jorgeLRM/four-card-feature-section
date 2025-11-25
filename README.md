@@ -21,6 +21,11 @@ This project is a responsive four-card feature section showcasing four main serv
 
 ![](./desktop_screenshot.png)
 
+### Links
+
+- Solution URL: [Github repository](https://github.com/jorgeLRM/four-card-feature-section)
+- Live Site URL: [Live demo](https://jorgelrm.github.io/four-card-feature-section/)
+
 ### The Challenge
 
 Users should be able to:
