@@ -17,6 +17,10 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 This project is a responsive four-card feature section showcasing four main services: Supervisor, Team Builder, Karma, and Calculator. Each card highlights a different aspect of an AI-powered tool for project management.
 
+### Screenshot
+
+![](./desktop_screenshot.png)
+
 ### The Challenge
 
 Users should be able to:
